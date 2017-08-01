@@ -13,3 +13,7 @@ descri:制作滚动歌词时候，每句话唱完后左击，自动生成时间�
   
 4.kindle - oxford advanced bag
    descri: use python to grab all this dic web and make a kindle dic
+
+
+5.flash card 
+    descri: make flash cards by taking photos of sth you are familiar, then send it to your LP, let him read and write for you 
