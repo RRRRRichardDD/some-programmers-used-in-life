@@ -17,3 +17,7 @@ descri:制作滚动歌词时候，每句话唱完后左击，自动生成时间�
 
 5.flash card 
     descri: make flash cards by taking photos of sth you are familiar, then send it to your LP, let him read and write for you 
+
+
+6.chrome OAD plug-in
+    descri: a plug-in that can help me use a good online dict when I am browsing
